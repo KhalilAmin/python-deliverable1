@@ -15,5 +15,5 @@ elif score > par:
 else:
     print(f"Good game, {userName}. Your total score was: {par - score}.")
 
-print(strokes)
+#print(strokes)
 #print(score)
